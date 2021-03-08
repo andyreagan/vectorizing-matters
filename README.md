@@ -1,6 +1,6 @@
 # Vectorized actuarial loops
 
-Companion to: https://andyreagan.github.io/2020/09/17/vectorizing-code-matters/
+Companion to: https://andyreagan.github.io/2020/09/17/vectorizing-code-matters/ (also published on [Medium](https://towardsdatascience.com/vectorizing-code-matters-66c5f95ddfd5)).
 
 ## Run the timings
 
